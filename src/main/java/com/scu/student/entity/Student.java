@@ -1,12 +1,6 @@
 package com.scu.student.entity;
 
-/**
- * @ClassName course
- * @Description
- * @Author Abel
- * @Date 2022/7/1 8:34
- * @Version 1.0
- **/
+
 public class Student {
     private String sid;
     private String name;

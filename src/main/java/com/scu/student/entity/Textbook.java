@@ -4,13 +4,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 
 import java.sql.Date;
 
-/**
- * @ClassName Textbook
- * @Description
- * @Author Abel
- * @Date 2022/7/1 14:56
- * @Version 1.0
- **/
+
 public class Textbook {
     private String id;
     private String name;

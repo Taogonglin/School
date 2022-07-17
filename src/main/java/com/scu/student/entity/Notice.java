@@ -1,11 +1,7 @@
 package com.scu.student.entity;
 
 
-/**
- * @Author:Gary
- * @ProjectName:winsdom_school_back
- * @Date: 2022/7/3 13:43
- **/
+
 public class Notice {
 
     private String id;

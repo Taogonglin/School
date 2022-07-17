@@ -1,12 +1,5 @@
 package com.scu.student.entity;
 
-/**
- * @ClassName Study
- * @Description
- * @Author Abel
- * @Date 2022/7/3 19:32
- * @Version 1.0
- **/
 public class Study implements Comparable<Study>{
     private Student student;
     private Course course;

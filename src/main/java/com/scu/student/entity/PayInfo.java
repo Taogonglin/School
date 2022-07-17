@@ -4,11 +4,6 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 
 import java.util.Date;
 
-/**
- * @Author:Gary
- * @ProjectName:winsdom_school_back
- * @Date: 2022/7/3 22:14
- **/
 public class PayInfo {
     String id;
     String sid;

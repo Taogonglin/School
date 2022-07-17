@@ -1,12 +1,6 @@
 package com.scu.student.entity;
 
-/**
- * @ClassName Gdesign
- * @Description
- * @Author Abel
- * @Date 2022/7/3 18:41
- * @Version 1.0
- **/
+
 public class Gdesign {
     private Student student;
     private Teacher teacher;

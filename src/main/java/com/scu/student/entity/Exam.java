@@ -4,13 +4,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 
 import java.sql.Date;
 
-/**
- * @ClassName Exam
- * @Description
- * @Author Abel
- * @Date 2022/7/1 8:47
- * @Version 1.0
- **/
+
 public class Exam implements Comparable<Exam>{
     private String cid;
     private String name;
